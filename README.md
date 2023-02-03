@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kapilsin025@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/91700/Downloads/KapilSingh.pdf](file:///C:/Users/91700/Downloads/KapilSingh.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/193C2MaWecbYLEQ8sdYtX0CU6rGEIxkrf/view?usp=share_link](https://drive.google.com/file/d/193C2MaWecbYLEQ8sdYtX0CU6rGEIxkrf/view?usp=share_link)
 
 - ⚡ Fun fact **I think I'm Funny😁**
 
