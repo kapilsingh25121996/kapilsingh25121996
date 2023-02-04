@@ -1,6 +1,6 @@
 ![logo](https://unite.un.org/sites/unite.un.org/files/styles/panopoly_image_original/public/pages/analytics-banner_1.png?itok=ZMQjool9)
 <h1 align="center">Hi 👋, I'm Kapil singh</h1>
-<h3 align="center">Keen Learner |Data Analyst |Data Science Enthusiastic</h3>
+<h3 align="center">Keen Learner | Data Analyst | Data Science Enthusiastic</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
