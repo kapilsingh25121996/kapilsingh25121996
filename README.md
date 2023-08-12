@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python,SQL,Excel,Statistics,PowerBI**
+- 💬 Ask me about **Python,SQL,Excel,Statistics,PowerBI,MS Excel**
 
 - 📫 How to reach me **kapilsin025@gmail.com**
 
