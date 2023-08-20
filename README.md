@@ -2,6 +2,7 @@
 
 <h1 align="center">Hey 👋, I am Kapil Singh</h1>
 <h3 align="center">Keen Learner | Data Analyst | Data Science Enthusiastic</h3>
+<img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsingh25121996&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsingh25121996" /> </p>
 
